@@ -1,5 +1,5 @@
 {
-  "2.0.0": {"active": true. "msg": "Running the latest version",
+  "2.0.0": {"active": true, "msg": "Running the latest version"},
   "1.0.4": {"active": true, "msg": "Update to the latest version"},
   "1.0.3": {"active": false, "msg": "Please update to 1.0.4"},
   "1.0.2": {"active": false, "msg": "Please update to 1.0.3"}

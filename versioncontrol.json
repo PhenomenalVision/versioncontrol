@@ -1,6 +1,7 @@
 {
   "API_ACCELERATOR": {"active": true, "msg": "Dual API Authorized"},
-  "2.0.2": {"active": true, "msg": "Running the latest version"},
+  "2.2.0": {"active": true, "msg": "Running the latest version 1/6/26 - 14:52"},
+  "2.0.2": {"active": true, "msg": "Update to the latest version"},
   "2.0.1": {"active": true, "msg": "Update to the latest version"},
   "2.0.0": {"active": true, "msg": "Update to the latest versino"},
   "1.0.4": {"active": true, "msg": "Update to the latest version"},
